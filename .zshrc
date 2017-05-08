@@ -1,1 +1,0 @@
-/Users/Hampus/.zprezto/runcoms/zshrc
