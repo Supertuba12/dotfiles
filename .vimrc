@@ -1,6 +1,3 @@
-syntax on
-filetype plugin indent on
-
 " Number of lines vim remembers
 set history=500
 
