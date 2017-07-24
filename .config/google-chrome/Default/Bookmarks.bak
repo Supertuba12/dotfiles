@@ -1,0 +1,657 @@
+{
+   "checksum": "f98d9a5aea30aed4c0b85c8a85d85e30",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13130016376746274",
+            "id": "35",
+            "meta_info": {
+               "last_visited_desktop": "13140046337508902"
+            },
+            "name": "TSEA83",
+            "sync_transaction_version": "3",
+            "type": "url",
+            "url": "https://liuonline.sharepoint.com/sites/TSEA83/TSEA83-2017VT/Sidor/default.aspx"
+         }, {
+            "date_added": "13129068543969567",
+            "id": "59",
+            "meta_info": {
+               "last_visited_desktop": "13134305058843323"
+            },
+            "name": "TDDB68",
+            "sync_transaction_version": "3",
+            "type": "url",
+            "url": "https://www.ida.liu.se/~TDDB68/"
+         }, {
+            "date_added": "13118959887178384",
+            "id": "36",
+            "meta_info": {
+               "last_visited_desktop": "13141252485725258"
+            },
+            "name": "Student portal",
+            "sync_transaction_version": "3",
+            "type": "url",
+            "url": "https://www3.student.liu.se/portal/login"
+         }, {
+            "date_added": "13129068573598611",
+            "id": "60",
+            "meta_info": {
+               "last_visited_desktop": "13134131868229954"
+            },
+            "name": "TATA76 ",
+            "sync_transaction_version": "3",
+            "type": "url",
+            "url": "http://courses.mai.liu.se/GU/TATA76/"
+         }, {
+            "date_added": "13118959887178388",
+            "id": "61",
+            "meta_info": {
+               "last_visited_desktop": "13140046326833568"
+            },
+            "name": "Outlook Liu",
+            "sync_transaction_version": "3",
+            "type": "url",
+            "url": "https://liuonline-my.sharepoint.com/default.aspx"
+         }, {
+            "date_added": "13119085509487330",
+            "id": "62",
+            "meta_info": {
+               "last_visited_desktop": "13142646192301928"
+            },
+            "name": "GitHub",
+            "sync_transaction_version": "23",
+            "type": "url",
+            "url": "https://github.com/"
+         }, {
+            "date_added": "13118959887178397",
+            "id": "32",
+            "meta_info": {
+               "last_visited_desktop": "13141089395827865"
+            },
+            "name": "Twitch",
+            "sync_transaction_version": "3",
+            "type": "url",
+            "url": "http://www.twitch.tv/"
+         }, {
+            "date_added": "13118959887178399",
+            "id": "39",
+            "meta_info": {
+               "last_visited_desktop": "13144265615061641"
+            },
+            "name": "YouTube",
+            "sync_transaction_version": "21",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13118959887178402",
+            "id": "33",
+            "meta_info": {
+               "last_visited_desktop": "13144435296959949"
+            },
+            "name": "Rooster Teeth",
+            "sync_transaction_version": "24",
+            "type": "url",
+            "url": "https://roosterteeth.com/"
+         }, {
+            "date_added": "13118959887178405",
+            "id": "34",
+            "meta_info": {
+               "last_visited_desktop": "13144187797447239"
+            },
+            "name": "Sweclockers",
+            "sync_transaction_version": "21",
+            "type": "url",
+            "url": "http://www.sweclockers.com/"
+         }, {
+            "date_added": "13118959887178412",
+            "id": "63",
+            "name": "Career Test",
+            "sync_transaction_version": "3",
+            "type": "url",
+            "url": "https://career-test.com/me/mNkM7aAltFUhBdOGCFHKeDug"
+         }, {
+            "date_added": "13118959887178415",
+            "id": "37",
+            "meta_info": {
+               "last_visited_desktop": "13134497318620926"
+            },
+            "name": "LiU bokningssida",
+            "sync_transaction_version": "3",
+            "type": "url",
+            "url": "https://se.timeedit.net/web/liu/db1/wr_stud/ri1Q8.html"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13118959887178426",
+                  "id": "69",
+                  "meta_info": {
+                     "last_visited_desktop": "13144034101109880"
+                  },
+                  "name": "MacBookPro11,x",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "https://wiki.archlinux.org/index.php/MacBookPro11,x"
+               }, {
+                  "date_added": "13118959887178429",
+                  "id": "70",
+                  "name": "Android Remake (iOS 9.3.3) - Imgur",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "https://m.imgur.com/a/Pbcdd#qLKtIPB"
+               }, {
+                  "date_added": "13118959887178432",
+                  "id": "71",
+                  "name": "[Release] Peralandra for LockPlus (simplify your life)",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "https://m.reddit.com/r/iOSthemes/comments/52zbfw/release_peralandra_for_lockplus_simplify_your_life/"
+               }, {
+                  "date_added": "13118959887178436",
+                  "id": "72",
+                  "name": "[Compiz] I'm a sucker for OS X's design",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "https://m.reddit.com/r/unixporn/comments/527ej9/compiz_im_a_sucker_for_os_xs_design/?utm_source=mweb_redirect&compact=true"
+               }, {
+                  "date_added": "13118959887178439",
+                  "id": "73",
+                  "name": "[XFCE] It's Nothing Special, But It's Mine",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "https://m.reddit.com/r/unixporn/comments/4inmkn/xfce_its_nothing_special_but_its_mine/?utm_source=mweb_redirect&compact=true"
+               }, {
+                  "date_added": "13118959887178453",
+                  "id": "74",
+                  "name": "GitHub - EvanPurkhiser/rEFInd-minimal: A stunningly clean theme for the rEFInd UEIF boot manager.",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "https://github.com/EvanPurkhiser/rEFInd-minimal"
+               }, {
+                  "date_added": "13118959887178459",
+                  "id": "75",
+                  "name": "The rEFInd Boot Manager",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "http://www.rodsbooks.com/refind/"
+               }, {
+                  "date_added": "13118959887178462",
+                  "id": "76",
+                  "name": "unzip and zip files som terminal - Sök på Google",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "https://www.google.se/search?client=safari&rls=en&q=unzip+and+zip+files+som+terminal&ie=UTF-8&oe=UTF-8&gfe_rd=cr&ei=3XjZV_K6M8eq8wfei5qgCg"
+               }, {
+                  "date_added": "13118959887178466",
+                  "id": "77",
+                  "name": "fotorealistiska tatueringar stockholm - Sök på Google",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "https://www.google.se/search?client=safari&rls=en&q=fotorealistiska+tatueringar+stockholm&ie=UTF-8&oe=UTF-8&gfe_rd=cr&ei=mLbKV7HIG8mq8weuloGoCA"
+               }, {
+                  "date_added": "13118959887178469",
+                  "id": "78",
+                  "name": "Tattoo artists | Tattoo Art Project",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "http://www.tattooartproject.com/tattoo-artists/"
+               }, {
+                  "date_added": "13118959887178472",
+                  "id": "79",
+                  "name": "Rich Pineda | Tattoo Art Project",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "http://www.tattooartproject.com/tattoo-artists/rich-pineda/"
+               }, {
+                  "date_added": "13118959887178475",
+                  "id": "80",
+                  "name": "Jens Bergström",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "http://www.tattooartproject.com/tattoo-artists/jens-bergstrom/"
+               }, {
+                  "date_added": "13118959887178478",
+                  "id": "81",
+                  "name": "TATA 24 - MAI:www.liu.se",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "http://courses.mai.liu.se/GU/TATA24/CDIT.html"
+               } ],
+               "date_added": "13144076317746497",
+               "date_modified": "13144076317746497",
+               "id": "68",
+               "name": "com.apple.ReadingList",
+               "sync_transaction_version": "3",
+               "type": "folder"
+            } ],
+            "date_added": "13144076317742713",
+            "date_modified": "13144076317742713",
+            "id": "64",
+            "name": "Importerat från Safari",
+            "sync_transaction_version": "3",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13124221442551465",
+               "id": "7",
+               "name": "i3-gaps",
+               "sync_transaction_version": "10",
+               "type": "url",
+               "url": "https://github.com/Airblader/i3/wiki/Compiling-&-Installing"
+            }, {
+               "date_added": "13124221204666682",
+               "id": "8",
+               "meta_info": {
+                  "last_visited_desktop": "13141503024912976"
+               },
+               "name": "Arch install guide",
+               "sync_transaction_version": "3",
+               "type": "url",
+               "url": "http://zanshin.net/2015/02/05/arch-linux-on-a-macbook-pro-part-3-base-installation/"
+            }, {
+               "date_added": "13124220720669344",
+               "id": "9",
+               "meta_info": {
+                  "last_visited_desktop": "13144034905610439"
+               },
+               "name": "i3 yabar",
+               "sync_transaction_version": "3",
+               "type": "url",
+               "url": "http://imgur.com/a/C9NnB"
+            }, {
+               "date_added": "13124219966543572",
+               "id": "10",
+               "name": "i3 dream",
+               "sync_transaction_version": "3",
+               "type": "url",
+               "url": "https://www.reddit.com/r/unixporn/comments/4qa0jm/i3gaps_finally_finished_my_setup/"
+            }, {
+               "date_added": "13124219738796615",
+               "id": "11",
+               "name": "I3 status bar",
+               "sync_transaction_version": "3",
+               "type": "url",
+               "url": "https://www.reddit.com/r/unixporn/comments/3uv9cx/i3_prettier_hexchat/"
+            }, {
+               "date_added": "13124221485862887",
+               "id": "12",
+               "name": "Pastel Colours Are Boring. - Album on Imgur",
+               "sync_transaction_version": "11",
+               "type": "url",
+               "url": "https://imgur.com/a/nwrLG#92CNfzC"
+            }, {
+               "date_added": "13118959887178456",
+               "id": "13",
+               "name": "lukechilds/refind-ambience",
+               "sync_transaction_version": "12",
+               "type": "url",
+               "url": "https://github.com/lukechilds/refind-ambience#installation"
+            }, {
+               "date_added": "13124324894918326",
+               "id": "14",
+               "name": "The rEFInd Boot Manager: rEFInd and System Integrity Protection",
+               "sync_transaction_version": "3",
+               "type": "url",
+               "url": "http://www.rodsbooks.com/refind/sip.html"
+            }, {
+               "date_added": "13124325027103913",
+               "id": "15",
+               "name": "Running Arch Linux on MacBook Pro 13'' 2015",
+               "sync_transaction_version": "3",
+               "type": "url",
+               "url": "http://pedronveloso.com/running-arch-linux-on-macbook-13-2015/"
+            }, {
+               "date_added": "13124375462503652",
+               "id": "16",
+               "name": "MacBook - ArchWiki",
+               "sync_transaction_version": "3",
+               "type": "url",
+               "url": "https://wiki.archlinux.org/index.php/MacBook#Apple_Remote"
+            }, {
+               "date_added": "13124375589421524",
+               "id": "17",
+               "meta_info": {
+                  "last_visited_desktop": "13144452351190262"
+               },
+               "name": "Making suspend work ",
+               "sync_transaction_version": "24",
+               "type": "url",
+               "url": "https://aur.archlinux.org/packages/linux-macbook/"
+            }, {
+               "date_added": "13124376558520091",
+               "id": "18",
+               "name": "GitHub - bytbox/pommed-light: A trimmed version of the pommed hotkey handler for macbooks",
+               "sync_transaction_version": "13",
+               "type": "url",
+               "url": "https://github.com/bytbox/pommed-light"
+            }, {
+               "date_added": "13124377001970520",
+               "id": "19",
+               "meta_info": {
+                  "last_visited_desktop": "13141760646197932"
+               },
+               "name": "hidpi scaling",
+               "sync_transaction_version": "3",
+               "type": "url",
+               "url": "https://wiki.archlinux.org/index.php/xrandr"
+            }, {
+               "date_added": "13124377020531643",
+               "id": "20",
+               "meta_info": {
+                  "last_visited_desktop": "13141760641885847"
+               },
+               "name": "Ljud",
+               "sync_transaction_version": "3",
+               "type": "url",
+               "url": "https://wiki.archlinux.org/index.php/PulseAudio/Configuration"
+            }, {
+               "date_added": "13124630526267943",
+               "id": "21",
+               "meta_info": {
+                  "last_visited_desktop": "13141763719251684"
+               },
+               "name": "HiDPI - ArchWiki",
+               "sync_transaction_version": "3",
+               "type": "url",
+               "url": "https://wiki.archlinux.org/index.php/HiDPI"
+            } ],
+            "date_added": "13124221457958625",
+            "date_modified": "13144452562065227",
+            "id": "6",
+            "name": "Arch",
+            "sync_transaction_version": "3",
+            "type": "folder"
+         }, {
+            "date_added": "13129126804752071",
+            "id": "41",
+            "name": "LibGen",
+            "sync_transaction_version": "3",
+            "type": "url",
+            "url": "http://gen.lib.rus.ec/"
+         }, {
+            "children": [ {
+               "date_added": "13130966154854425",
+               "id": "23",
+               "meta_info": {
+                  "last_visited_desktop": "13130966154855085"
+               },
+               "name": "Infield Drill - fielding, developing soft hands by catching water balloons",
+               "sync_transaction_version": "3",
+               "type": "url",
+               "url": "http://www.qcbaseball.com/drills/infield-water-balloon-toss.aspx"
+            }, {
+               "date_added": "13130966321060886",
+               "id": "24",
+               "meta_info": {
+                  "last_visited_desktop": "13130966321061024"
+               },
+               "name": "Star Game",
+               "sync_transaction_version": "3",
+               "type": "url",
+               "url": "http://www.qcbaseball.com/drills/infield-star-game.aspx"
+            }, {
+               "date_added": "13130966388835010",
+               "id": "25",
+               "meta_info": {
+                  "last_visited_desktop": "13130966388835179"
+               },
+               "name": "Warm up - Follow the ball",
+               "sync_transaction_version": "3",
+               "type": "url",
+               "url": "http://www.qcbaseball.com/drills/infield-follow-the-ball.aspx"
+            }, {
+               "date_added": "13130966466890511",
+               "id": "26",
+               "meta_info": {
+                  "last_visited_desktop": "13130966466890691"
+               },
+               "name": "Min 5 - Bucket game",
+               "sync_transaction_version": "3",
+               "type": "url",
+               "url": "http://www.qcbaseball.com/drills/infield-bucket-of-balls.aspx"
+            }, {
+               "date_added": "13130966583317124",
+               "id": "27",
+               "meta_info": {
+                  "last_visited_desktop": "13130966622838062"
+               },
+               "name": "Fielding practice - Short hop",
+               "sync_transaction_version": "3",
+               "type": "url",
+               "url": "http://www.qcbaseball.com/drills/infield-short-hop.aspx"
+            }, {
+               "date_added": "13130966691553001",
+               "id": "28",
+               "meta_info": {
+                  "last_visited_desktop": "13130966691553138"
+               },
+               "name": "Min 6 - Infield angle pratice",
+               "sync_transaction_version": "3",
+               "type": "url",
+               "url": "http://www.qcbaseball.com/drills/infield-rotation.aspx"
+            }, {
+               "date_added": "13130966842205201",
+               "id": "29",
+               "meta_info": {
+                  "last_visited_desktop": "13130966842205356"
+               },
+               "name": "Score game - Aim practice",
+               "sync_transaction_version": "3",
+               "type": "url",
+               "url": "http://www.qcbaseball.com/drills/infield-carnival-grounders.aspx"
+            }, {
+               "date_added": "13130967207300148",
+               "id": "30",
+               "meta_info": {
+                  "last_visited_desktop": "13130967207300299"
+               },
+               "name": "Game - Throwing and catching practice",
+               "sync_transaction_version": "3",
+               "type": "url",
+               "url": "http://www.qcbaseball.com/drills/throwing-long-toss.aspx"
+            }, {
+               "date_added": "13130969357284910",
+               "id": "31",
+               "meta_info": {
+                  "last_visited_desktop": "13130969357285051"
+               },
+               "name": "Team Baseball Drills",
+               "sync_transaction_version": "3",
+               "type": "url",
+               "url": "http://www.qcbaseball.com/drills/team-baseball-drills.aspx"
+            } ],
+            "date_added": "13130966166994032",
+            "date_modified": "13130969357284910",
+            "id": "22",
+            "name": "Baseball drills",
+            "sync_transaction_version": "3",
+            "type": "folder"
+         }, {
+            "date_added": "13134046003369744",
+            "id": "43",
+            "meta_info": {
+               "last_visited_desktop": "13134124810281398"
+            },
+            "name": "RTX_tickets",
+            "sync_transaction_version": "3",
+            "type": "url",
+            "url": "https://www.universe.com/tickets/58c9119e922e53003876f897.pdf"
+         }, {
+            "date_added": "13134124801788949",
+            "id": "42",
+            "meta_info": {
+               "last_visited_desktop": "13134125009911980"
+            },
+            "name": "RTX_tickets2",
+            "sync_transaction_version": "3",
+            "type": "url",
+            "url": "https://www.universe.com/tickets/58ca45b1686e600052e1e5a2.pdf"
+         }, {
+            "date_added": "13141685921107714",
+            "id": "65",
+            "meta_info": {
+               "last_visited_desktop": "13142644316763026"
+            },
+            "name": "[arch] [bspwm] october 2015 by transienceband on DeviantArt",
+            "sync_transaction_version": "3",
+            "type": "url",
+            "url": "http://www.deviantart.com/art/arch-bspwm-october-2015-564139268"
+         }, {
+            "date_added": "13141769343912099",
+            "id": "66",
+            "meta_info": {
+               "last_visited_desktop": "13142896333283773"
+            },
+            "name": "mtrack",
+            "sync_transaction_version": "3",
+            "type": "url",
+            "url": "http://yarenty.blogspot.se/2014/08/how-to-fix-macbook-pro-touchpad-on.html"
+         }, {
+            "date_added": "13142975249967072",
+            "id": "67",
+            "meta_info": {
+               "last_visited_desktop": "13142975249967389"
+            },
+            "name": "dotfiles/config at master · brianclemens/dotfiles",
+            "sync_transaction_version": "24",
+            "type": "url",
+            "url": "https://github.com/brianclemens/dotfiles/blob/master/.config/polybar/config"
+         }, {
+            "date_added": "13141775113000000",
+            "id": "38",
+            "name": "LONDON NORWEGIAN PASS",
+            "sync_transaction_version": "3",
+            "type": "url",
+            "url": "https://www.norwegian.com/ssl/se/mina-resor/#/mytravels"
+         }, {
+            "date_added": "13141775113000000",
+            "id": "40",
+            "name": "Overleaf - LateX",
+            "sync_transaction_version": "3",
+            "type": "url",
+            "url": "https://www.overleaf.com/"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13141774569000000",
+                  "id": "46",
+                  "name": "Help and Tutorials",
+                  "sync_transaction_version": "4",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/en-US/products/firefox"
+               }, {
+                  "date_added": "13141774569000000",
+                  "id": "47",
+                  "name": "Customize Firefox",
+                  "sync_transaction_version": "5",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/en-US/firefox/customize/"
+               }, {
+                  "date_added": "13141774569000000",
+                  "id": "48",
+                  "name": "Get Involved",
+                  "sync_transaction_version": "6",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/en-US/contribute/"
+               }, {
+                  "date_added": "13141774569000000",
+                  "id": "49",
+                  "name": "About Us",
+                  "sync_transaction_version": "7",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/en-US/about/"
+               }, {
+                  "date_added": "13141775114000000",
+                  "id": "50",
+                  "name": "Hjälp och vägledning",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/sv-SE/products/firefox"
+               }, {
+                  "date_added": "13141775114000000",
+                  "id": "51",
+                  "name": "Anpassa Firefox",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/sv-SE/firefox/customize/"
+               }, {
+                  "date_added": "13141775114000000",
+                  "id": "52",
+                  "name": "Engagera dig",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/sv-SE/contribute/"
+               }, {
+                  "date_added": "13141775114000000",
+                  "id": "53",
+                  "name": "Om oss",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/sv-SE/about/"
+               } ],
+               "date_added": "13144067687950641",
+               "date_modified": "0",
+               "id": "45",
+               "name": "Mozilla Firefox",
+               "sync_transaction_version": "3",
+               "type": "folder"
+            } ],
+            "date_added": "13144067687950345",
+            "date_modified": "13144067687950346",
+            "id": "44",
+            "name": "Imported From Firefox",
+            "sync_transaction_version": "3",
+            "type": "folder"
+         } ],
+         "date_added": "13144067666720496",
+         "date_modified": "13144452562065229",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "sync_transaction_version": "3",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13144067666720500",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "sync_transaction_version": "3",
+         "type": "folder"
+      },
+      "sync_transaction_version": "24",
+      "synced": {
+         "children": [ {
+            "date_added": "13012350142594308",
+            "id": "56",
+            "name": "Skolschema",
+            "sync_transaction_version": "3",
+            "type": "url",
+            "url": "http://www.novasoftware.se/webviewer/(S(pn0xz555sbqtc3ett1anx3qn))/design1.aspx?schoolid=29070&code=457661"
+         }, {
+            "date_added": "13093800865778818",
+            "id": "57",
+            "name": "BESTÅ Tv-bänk ",
+            "sync_transaction_version": "3",
+            "type": "url",
+            "url": "http://www.ikea.com/se/sv/catalog/products/S39123849/#/S99061933"
+         }, {
+            "date_added": "13130958981891197",
+            "id": "58",
+            "meta_info": {
+               "last_visited_desktop": "13132940149069284"
+            },
+            "name": "How to glitch images using pixel sorting | Datamoshing",
+            "sync_transaction_version": "3",
+            "type": "url",
+            "url": "http://datamoshing.com/2016/06/16/how-to-glitch-images-using-pixel-sorting/"
+         } ],
+         "date_added": "13144067666720501",
+         "date_modified": "13130958981891197",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "sync_transaction_version": "3",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

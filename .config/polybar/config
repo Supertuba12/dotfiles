@@ -1,0 +1,274 @@
+;=====================================================
+;
+;   To learn more about how to configure Polybar
+;   go to https://github.com/jaagr/polybar
+;
+;   The README contains alot of information
+;
+;=====================================================
+
+[colors]
+; #### FIREWATCH COLORS ####
+fw-light-sea-green = #1166B6
+fw-indigo = #500957
+fw-light-blue = #ACD2EB
+fw-dodger-blue = #1873CC
+fw-midnight-blue = #80090632
+fw-supernova = #FFCC00
+fw-brick-red = #AA4444
+fw-black-rose = #660033
+
+;background = ${xrdb:color0:#222}
+;foreground = ${xrdb:color7:#222}
+theme-grey = #993B3A35
+theme-white = #F8F8FA
+theme_purple = #C07D6A
+theme-orange = #FFB52A
+theme-green = #39F014
+theme-red = #DD002E
+
+background-white = #DDF8F8FA
+; background-black = #DD3B3A35
+background-black = #DD08090E
+
+foreground-white = #DFDFDF
+foreground-black = #3A3A3A
+foreground-alt = #4A5A5A
+
+primary = #FFB52A
+secondary = #E60053
+alert = #BD2C40
+
+[bar/top]
+width = 100%
+height = 35
+radius-bottom = 7
+dpi = 144
+fixed-center = true
+
+background = ${colors.theme-grey}
+foreground = ${colors.foreground-white}
+
+line-size = 3
+
+border-left-size = 5
+border-right-size = 5
+border-top-size = 5
+border-bottom-size = 0
+border-color = #00000000
+
+padding-left = 0
+padding-right = 0
+
+module-margin-left = 1
+module-margin-right = 1
+
+font-0 = Droid Sans Mono:size=11;2
+font-1 = FontAwesome:size=11;3
+
+modules-left = powermenu
+modules-center = bspwm
+modules-right = temperature volume battery wlan date
+
+wm-restack = bspwm
+
+;override-redirect = true
+
+[module/filesystem]
+type = internal/fs
+interval = 25
+
+mount-0 = /
+
+label-mounted = %{F#0a81f5}%mountpoint%%{F-}: %percentage_used%%
+label-unmounted = %mountpoint% not mounted
+label-unmounted-foreground = ${colors.foreground-white}
+
+[module/bspwm]
+type = internal/bspwm
+
+ws-icon-default = 
+
+label-focused = 
+label-focused-foreground = #00FFFFFF
+label-focused-underline= ${colors.foreground-white}
+label-focused-padding = 1
+
+label-occupied = 
+label-occupied-foreground = #00FFFFFF
+label-occupied-underline= ${colors.fw-black-rose}
+label-occupied-padding = 1
+
+label-urgent = 
+label-urgent-foreground = #00FFFFFF
+label-urgent-underline = ${colors.alert}
+label-urgent-padding = 1
+
+label-empty = 
+label-empty-foreground = #00FFFFFF
+label-empty-underline= ${colors.fw-black-rose}
+label-empty-padding = 1
+
+[module/xbacklight]
+type = internal/xbacklight
+
+format = <label> <bar>
+label = BL
+
+[module/backlight-acpi]
+inherit = module/xbacklight
+type = internal/backlight
+card = intel_backlight
+
+[module/cpu]
+type = internal/cpu
+interval = 2
+;format-underline = ${colors.fw-black-rose}
+label = cpu %percentage%%
+
+[module/memory]
+type = internal/memory
+interval = 2
+;format-underline = ${colors.fw-black-rose}
+label = ram %percentage_used%%
+
+[module/wlan]
+type = internal/network
+interface = wlp3s0
+format-connected = <label-connected>
+;format-connected-underline = ${colors.fw-black-rose}
+label-connected-foreground = ${colors.foreground-white}
+label-connected =  %essid%
+
+format-disconnected = <label-disconnected>
+;format-disconnected-underline = ${self.format-connected-underline}
+label-disconnected = 
+label-disconnected-foreground = ${colors.foreground-alt}
+
+;format-disconnected = <label-disconnected>
+
+
+[module/date]
+type = internal/date
+interval = 5
+
+date =
+date-alt = "%Y-%m-%d"
+
+time = "%H:%M " 
+time-alt = "%H:%M:%S "
+
+format-date = <label>
+format-prefix = ""
+format-foreground = ${colors.foreground-white}
+;format-underline = ${colors.fw-black-rose}
+
+label = %date% %time%
+
+[module/volume]
+type = internal/volume
+
+format-volume = <label-volume>
+;format-volume-underline = ${colors.fw-black-rose}
+label-volume =  %percentage%%
+label-volume-foreground = ${colors.foreground-white}
+
+format-muted-foreground = ${colors.theme-grey}
+;format-muted-underline = ${self.format-volume-underline}
+label-muted = 
+
+[module/battery]
+type = internal/battery
+battery = BAT0
+adapter = ADP1
+full-at = 98
+
+format-charging = <animation-charging> <label-charging>
+;format-charging-underline = ${colors.theme-orange}
+
+format-discharging = <ramp-capacity> <label-discharging>
+;format-discharging-underline = ${colors.fw-black-rose}
+
+format-full-prefix = " "
+format-full-prefix-foreground = ${colors.foreground-white}
+;format-full-underline = ${colors.theme-green}
+
+ramp-capacity-0 = 
+ramp-capacity-1 = 
+ramp-capacity-2 = 
+ramp-capacity-3 = 
+ramp-capacity-foreground = ${colors.foreground-white}
+label-discharging = %percentage%%
+
+animation-charging-0 =
+animation-charging-1 =
+animation-charging-2 =
+animation-charging-foreground = ${colors.foreground-white}
+animation-charging-framerate = 750
+label-charging = %percentage%%
+
+[module/temperature]
+type = internal/temperature
+thermal-zone = 1
+warn-temperature = 85
+
+format = <ramp> <label>
+;format-underline = ${colors.fw-black-rose}
+format-warn-prefix = " "
+format-warn = <label-warn>
+;format-warn-underline = ${colors.theme-red}
+
+label = %temperature%
+label-warn =  %temperature%
+label-warn-foreground = ${colors.foreground-white}
+
+ramp-0 = 
+ramp-1 = 
+ramp-2 = 
+ramp-foreground = ${colors.foreground-white}
+
+
+[module/powermenu]
+type = custom/menu
+
+format-spacing = 1
+;format-underline = ${colors.fw-black-rose}
+;format-open-underline = ${self.format-underline}
+;format-close-underline = ${self.format-underline}
+
+label-open = 
+label-open-foreground = ${colors.foreground-white}
+label-open-padding = 1
+label-close =  Cancel
+label-close-foreground = ${colors.foreground-white}
+label-close-padding = 1
+label-separator = |
+label-separator-foreground = ${colors.foreground-alt}
+
+menu-0-0 =  Reboot
+menu-0-0-exec = menu-open-1
+menu-0-1 =  Power off
+menu-0-1-exec = menu-open-2
+
+menu-1-0 = Cancel
+menu-1-0-exec = menu-open-0
+menu-1-1 = Reboot
+menu-1-1-exec = systemctl reboot
+
+menu-2-0 = power off
+menu-2-0-exec = systemctl poweroff
+menu-2-1 = cancel
+menu-2-1-exec = menu-open-0
+
+[settings]
+screenchange-reload = true
+;compositing-background = xor
+;compositing-background = screen
+;compositing-foreground = source
+;compositing-border = over
+
+[global/wm]
+margin-top = 5
+margin-bottom = 5
+
+; vim:ft=dosini
